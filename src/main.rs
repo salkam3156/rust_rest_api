@@ -2,8 +2,8 @@
 
 #[macro_use]
 extern crate rocket;
-mod controllers;
 
+mod controllers;
 use controllers::main_controller;
 
 fn main() {
