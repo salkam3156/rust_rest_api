@@ -1,6 +1,8 @@
 use rocket::http::RawStr;
 use rocket::*;
 
+//TODO: attrib usage in impl block
+
 #[get("/")]
 pub fn index() -> &'static str {
     "Test"

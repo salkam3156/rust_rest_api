@@ -1,2 +1,1 @@
-pub mod base;
-pub mod test;
+pub mod test_controller;
