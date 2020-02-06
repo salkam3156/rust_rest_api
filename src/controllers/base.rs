@@ -1,6 +1,1 @@
-pub struct base_controller
-{
-
-}
-
-trait get() -> String;
+pub struct base_controller {}
