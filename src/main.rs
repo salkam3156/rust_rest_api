@@ -2,6 +2,10 @@
 
 mod controllers;
 use controllers::{base, test};
+
+mod models;
+use models::*;
+
 use rocket::*;
 
 fn main() {
