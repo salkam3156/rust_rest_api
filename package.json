@@ -1,0 +1,23 @@
+{
+  "name": "rust_webapi",
+  "version": "1.0.0",
+  "description": "fake API for fetching data in the project",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salkam3156/rust_rest_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salkam3156/rust_rest_api/issues"
+  },
+  "homepage": "https://github.com/salkam3156/rust_rest_api#readme"
+}
