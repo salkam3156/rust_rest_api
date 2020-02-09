@@ -1,5 +1,3 @@
-use log::info;
-
 pub struct controller_base {}
 
 impl controller_base {
