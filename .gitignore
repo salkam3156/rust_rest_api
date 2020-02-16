@@ -4,3 +4,6 @@
 #json-server
 package-lock.json
 node_modules
+
+#diesel setup
+.env
